@@ -1,0 +1,20 @@
+{
+  "name": "TypeScript-for-JavaScript-Developers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rion0919/TypeScript-for-JavaScript-Developers.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rion0919/TypeScript-for-JavaScript-Developers/issues"
+  },
+  "homepage": "https://github.com/Rion0919/TypeScript-for-JavaScript-Developers#readme"
+}
