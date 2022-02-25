@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Rion0919/TypeScript-for-JavaScript-Developers#readme",
   "devDependencies": {
+    "ts-node": "^8.6.2",
     "typescript": "^3.7.5"
   }
 }
